@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-h1 {
+/* h1 {
   font-size: 56px;
   line-height: 66;
   font-weight: bold;
@@ -31,7 +31,9 @@ h6 {
   font-size: 16px;
   line-height: 22;
   font-weight: bold;
-}
+  color: white;
+} */
+
 @layer base {
   p1 {
     @apply text-xl leading-[30px];

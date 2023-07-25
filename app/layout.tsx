@@ -1,3 +1,5 @@
+import Footer from "@/container/footer";
+import Navigation from "@/container/navigation";
 import "@/styles/globals.css";
 import type { Metadata } from "next";
 import { Sora } from "next/font/google";
@@ -16,7 +18,10 @@ type RootLayoutProps = {
 const RootLayout: React.FC<RootLayoutProps> = ({ children }) => {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className}>
+        <Navigation /> {children}
+        <Footer />
+      </body>
     </html>
   );
 };

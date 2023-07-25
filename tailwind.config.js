@@ -20,6 +20,7 @@ module.exports = {
         statusYellowLight: "#FFF1DC",
         statusRed: "#FF4E3E",
         statusRedLight: "#FFECEB",
+        black: "#101313",
       },
     },
   },

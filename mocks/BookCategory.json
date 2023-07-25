@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "name": "All Category",
+    "description": "Novels, short stories, and narratives that are not based on real events or people."
+  },
+  {
+    "id": 1,
+    "name": "Fiction",
+    "description": "Novels, short stories, and narratives that are not based on real events or people."
+  },
+  {
+    "id": 2,
+    "name": "Non-Fiction",
+    "description": "Books based on real events, facts, and information."
+  },
+  {
+    "id": 3,
+    "name": "Mystery/Thriller",
+    "description": "Books that involve suspense, crime, and solving mysteries."
+  },
+  {
+    "id": 4,
+    "name": "Science Fiction",
+    "description": "Books that explore imaginative and futuristic concepts."
+  },
+  {
+    "id": 5,
+    "name": "Romance",
+    "description": "Books that focus on romantic relationships and emotions."
+  },
+  {
+    "id": 6,
+    "name": "History",
+    "description": "Books that cover past events, civilizations, and historical figures."
+  },
+  {
+    "id": 7,
+    "name": "Biography/Autobiography",
+    "description": "Books that tell the life stories of individuals (written by others or themselves)."
+  },
+  {
+    "id": 8,
+    "name": "Self-Help",
+    "description": "Books that offer advice, guidance, and strategies for personal growth and improvement."
+  },
+  {
+    "id": 9,
+    "name": "Fantasy",
+    "description": "Books that involve magical or supernatural elements and often set in alternate worlds."
+  },
+  {
+    "id": 10,
+    "name": "Science",
+    "description": "Books that cover various scientific disciplines and concepts."
+  }
+]
